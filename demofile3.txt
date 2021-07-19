@@ -1,0 +1,9 @@
+. . This mak;es the cable small in diameter but unprotected against electrical interference. The twist helps to improve its immunity to electrical noise and EMI.
+b Shielded Twisted Pair or STP 
+- STP is similar to unshielded twisted pair however, it contains an extra foil wrapping or copper braid jacket to help shield the cable signals from interference. STP cables are costlier when compared to UTP, but has the advantage of being capable of supporting higher transmission rates across longer distances
+
+5.What is transmission media? Explain different transmissionmedium with their merits and demerits.
+- Transmission media is a communication channel that carries the information from the sender to the receiver. Data is transmitted through the electromagnetic signals.
+      
+      
+        .                          Ans in Q1

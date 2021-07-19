@@ -1,0 +1,13 @@
+Nominal Attribute: 
+Nominal Attributes only provide enough attributes to differentiate between one object and another. Such as Student Roll No., Sex of the Person. 
+ 
+Ordinal Attribute: 
+The ordinal attribute value provides sufficient information to order the objects. Such as Rankings, Grades, Height
+Binary Attribute: 
+These are 0 and 1. Where 0 is the absence of any features and 1 is the inclusion of any characteristics.
+Numeric attribute:It is quantitative, such that quantity can be measured and represented in integer or real values ,are of two types
+Interval Scaled attribute: 
+It is measured on a scale of equal size units,these attributes allows us to compare such as temperature in C or F and thus values of attributes have order.
+ 
+Ratio Scaled attribute: 
+Both differences and ratios are significant for Ratio. For eg. age, length, Weight.
